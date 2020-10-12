@@ -1,0 +1,5 @@
+#!name=DNSPod DoH
+#!desc=DoH using DNSPod
+
+[General]
+doh-server = https://doh.pub/dns-query
