@@ -1,5 +1,5 @@
-#!name=DIRECT Apple Apps Download
-#!desc=Using DIRECT for Apple apps download
+#!name=DIRECT Apple App Downloads
+#!desc=Use DIRECT for Apple app downloads
 
 [Rule]
 DOMAIN,osxapps.itunes.apple.com,DIRECT,notification-text="macOS app download: DIRECT"
