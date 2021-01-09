@@ -1,0 +1,6 @@
+#!name=DIRECT Apple Services
+#!desc=Use DIRECT for Apple services
+
+[Rule]
+RULE-SET,https://github.com/claysang/Rulesets/raw/master/apple.list,DIRECT
+RULE-SET,SYSTEM,DIRECT
