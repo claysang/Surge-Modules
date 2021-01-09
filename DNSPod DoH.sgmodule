@@ -2,4 +2,5 @@
 #!desc=DoH using DNSPod
 
 [General]
+dns-server = 119.29.29.29
 doh-server = https://doh.pub/dns-query
